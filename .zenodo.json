@@ -1,0 +1,12 @@
+{
+  "title": "Verification archive for: Perfect state transfer from Hermitian weighing matrices: mixed Cayley graphs over groups with an abelian subgroup of index 2",
+  "creators": [
+    {
+      "name": "Khalilipour, Afsaneh",
+      "affiliation": "Department of Mathematics, Faculty of Science, Shahid Rajaee Teacher Training University, Tehran, Iran"
+    }
+  ],
+  "description": "Scripts, logs and manuscript source accompanying the paper. Computations are numerical evidence (exact integer arithmetic where stated), not formal proofs.",
+  "license": "apache-2.0",
+  "keywords": ["perfect state transfer", "mixed Cayley graphs", "Hermitian weighing matrices"]
+}
