@@ -4,4 +4,4 @@
 
 `independent_checks/` is a second set of programs with logs, `run_all.sh`, `requirements.txt` and a README (claim -> script -> log table). Since v12 it also contains the enumeration of the weight-4 weighing sets for non-cyclic A of order at most 16 (`search_noncyclic_k4.py`, `validate_prune.py`) and, since v13, a third implementation of it (`noncyclic_weight4_third_check.py`).
 
-All scripts of the author's archive were re-run by the auditor; the new logs are identical to the author's `expected_output_*` files (timings ignored); see `../audit/rerun_of_author_scripts`. Both sets of programs agree with every number of Tables `tab:nn` and `tab:ab` of the manuscript.
+All scripts of the author's archive were re-run by the auditor; the new logs are identical to the author's `expected_output_*` files (timings ignored). Both sets of programs agree with every number of Tables `tab:nn` and `tab:ab` of the manuscript.
