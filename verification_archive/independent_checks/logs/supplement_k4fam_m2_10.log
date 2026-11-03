@@ -1,0 +1,9 @@
+{'m': 2, 'order': 64, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': False, 'Aut': 6144}
+{'m': 3, 'order': 96, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 18432}
+{'m': 4, 'order': 128, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 98304}
+{'m': 5, 'order': 160, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 491520}
+{'m': 6, 'order': 192, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 2359296}
+{'m': 7, 'order': 224, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 11010048}
+{'m': 8, 'order': 256, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 50331648}
+{'m': 9, 'order': 288, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 226492416}
+{'m': 10, 'order': 320, 'K2_exact': True, 'zeta': 5, 'spectrum': [-5, -3, 3, 5], 'spectrum_ok': True, 'U_is_minus_i_Rc': True, 'connected': True, 'commutation_test_nonzero': True, 'Aut': 1006632960}

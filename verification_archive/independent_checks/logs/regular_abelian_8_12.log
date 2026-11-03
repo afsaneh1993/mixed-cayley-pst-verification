@@ -1,0 +1,6 @@
+order 8 : abelian certificates: 55
+D4: classes 6; abelian-Cayley by certificate: 6; by regular abelian subgroup in Aut: 6; agreement 6, disagreement 0, skipped (|Aut| too large) 0  (0s)
+Q8: classes 2; abelian-Cayley by certificate: 2; by regular abelian subgroup in Aut: 2; agreement 2, disagreement 0, skipped (|Aut| too large) 0  (0s)
+order 12 : abelian certificates: 747
+D6: classes 6; abelian-Cayley by certificate: 2; by regular abelian subgroup in Aut: 2; agreement 6, disagreement 0, skipped (|Aut| too large) 0  (2s)
+Dic3: classes 8; abelian-Cayley by certificate: 2; by regular abelian subgroup in Aut: 2; agreement 8, disagreement 0, skipped (|Aut| too large) 0  (3s)

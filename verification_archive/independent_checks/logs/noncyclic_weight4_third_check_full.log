@@ -1,0 +1,36 @@
+A=[8] y=(0,): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(4,): 0}   [0 s]
+A=[8] y=(4,): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(4,): 0}   [0 s]
+A=[4, 2] y=(0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (2, 0): 0, (2, 1): 0}   [0 s]
+A=[4, 2] y=(0, 1): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (2, 0): 0, (2, 1): 0}   [0 s]
+A=[4, 2] y=(2, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (2, 0): 0, (2, 1): 0}   [0 s]
+A=[4, 2] y=(2, 1): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (2, 0): 0, (2, 1): 0}   [0 s]
+A=[6, 2] y=(0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (3, 0): 0, (3, 1): 0}   [0 s]
+A=[6, 2] y=(0, 1): sets with K^2=16I: 288; connected (S',c) pairs: 864 (Type I 864, Type II 0, neither 0); per c: {(0, 1): 288, (3, 0): 288, (3, 1): 288}   [1 s]
+A=[6, 2] y=(3, 0): sets with K^2=16I: 288; connected (S',c) pairs: 864 (Type I 864, Type II 0, neither 0); per c: {(0, 1): 288, (3, 0): 288, (3, 1): 288}   [1 s]
+A=[6, 2] y=(3, 1): sets with K^2=16I: 288; connected (S',c) pairs: 864 (Type I 864, Type II 0, neither 0); per c: {(0, 1): 288, (3, 0): 288, (3, 1): 288}   [1 s]
+A=[8, 2] y=(0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (4, 0): 0, (4, 1): 0}   [1 s]
+A=[8, 2] y=(0, 1): sets with K^2=16I: 1664; connected (S',c) pairs: 4992 (Type I 4800, Type II 192, neither 0); per c: {(0, 1): 1664, (4, 0): 1664, (4, 1): 1664}   [70 s]
+A=[8, 2] y=(4, 0): sets with K^2=16I: 5376; connected (S',c) pairs: 14208 (Type I 9216, Type II 4992, neither 0); per c: {(0, 1): 4416, (4, 0): 5376, (4, 1): 4416}   [72 s]
+A=[8, 2] y=(4, 1): sets with K^2=16I: 1664; connected (S',c) pairs: 4992 (Type I 4800, Type II 192, neither 0); per c: {(0, 1): 1664, (4, 0): 1664, (4, 1): 1664}   [72 s]
+A=[4, 4] y=(0, 0): sets with K^2=16I: 64; connected (S',c) pairs: 192 (Type I 192, Type II 0, neither 0); per c: {(0, 2): 64, (2, 0): 64, (2, 2): 64}   [1 s]
+A=[4, 4] y=(0, 2): sets with K^2=16I: 2112; connected (S',c) pairs: 6336 (Type I 3072, Type II 3264, neither 0); per c: {(0, 2): 2112, (2, 0): 2112, (2, 2): 2112}   [71 s]
+A=[4, 4] y=(2, 0): sets with K^2=16I: 2112; connected (S',c) pairs: 6336 (Type I 3072, Type II 3264, neither 0); per c: {(0, 2): 2112, (2, 0): 2112, (2, 2): 2112}   [71 s]
+A=[4, 4] y=(2, 2): sets with K^2=16I: 2112; connected (S',c) pairs: 6336 (Type I 3072, Type II 3264, neither 0); per c: {(0, 2): 2112, (2, 0): 2112, (2, 2): 2112}   [71 s]
+A=[4, 2, 2] y=(0, 0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 0, 1): 0, (0, 1, 0): 0, (0, 1, 1): 0, (2, 0, 0): 0, (2, 0, 1): 0, (2, 1, 0): 0, (2, 1, 1): 0}   [0 s]
+A=[4, 2, 2] y=(0, 0, 1): sets with K^2=16I: 1536; connected (S',c) pairs: 8704 (Type I 4032, Type II 4672, neither 0); per c: {(0, 0, 1): 1536, (0, 1, 0): 1024, (0, 1, 1): 1024, (2, 0, 0): 1536, (2, 0, 1): 1536, (2, 1, 0): 1024, (2, 1, 1): 1024}   [72 s]
+A=[4, 2, 2] y=(0, 1, 0): sets with K^2=16I: 1536; connected (S',c) pairs: 8704 (Type I 4032, Type II 4672, neither 0); per c: {(0, 0, 1): 1024, (0, 1, 0): 1536, (0, 1, 1): 1024, (2, 0, 0): 1536, (2, 0, 1): 1024, (2, 1, 0): 1536, (2, 1, 1): 1024}   [73 s]
+A=[4, 2, 2] y=(0, 1, 1): sets with K^2=16I: 1536; connected (S',c) pairs: 8704 (Type I 4032, Type II 4672, neither 0); per c: {(0, 0, 1): 1024, (0, 1, 0): 1024, (0, 1, 1): 1536, (2, 0, 0): 1536, (2, 0, 1): 1024, (2, 1, 0): 1024, (2, 1, 1): 1536}   [72 s]
+A=[4, 2, 2] y=(2, 0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 0, 1): 0, (0, 1, 0): 0, (0, 1, 1): 0, (2, 0, 0): 0, (2, 0, 1): 0, (2, 1, 0): 0, (2, 1, 1): 0}   [72 s]
+A=[4, 2, 2] y=(2, 0, 1): sets with K^2=16I: 1536; connected (S',c) pairs: 8704 (Type I 4032, Type II 4672, neither 0); per c: {(0, 0, 1): 1536, (0, 1, 0): 1024, (0, 1, 1): 1024, (2, 0, 0): 1536, (2, 0, 1): 1536, (2, 1, 0): 1024, (2, 1, 1): 1024}   [71 s]
+A=[4, 2, 2] y=(2, 1, 0): sets with K^2=16I: 1536; connected (S',c) pairs: 8704 (Type I 4032, Type II 4672, neither 0); per c: {(0, 0, 1): 1024, (0, 1, 0): 1536, (0, 1, 1): 1024, (2, 0, 0): 1536, (2, 0, 1): 1024, (2, 1, 0): 1536, (2, 1, 1): 1024}   [73 s]
+A=[4, 2, 2] y=(2, 1, 1): sets with K^2=16I: 1536; connected (S',c) pairs: 8704 (Type I 4032, Type II 4672, neither 0); per c: {(0, 0, 1): 1024, (0, 1, 0): 1024, (0, 1, 1): 1536, (2, 0, 0): 1536, (2, 0, 1): 1024, (2, 1, 0): 1024, (2, 1, 1): 1536}   [71 s]
+
+CLAIM CHECKS (manuscript v11, Remark comp)
+MATCH     connected sets exist for A=[6, 2] and every y != 0
+MATCH     connected sets exist for A=[8, 2] and every y != 0
+MATCH     connected sets exist for A=[4, 4] and every y != 0
+MATCH     A=[4,2,2]: connected sets exist for every y != 0 except y=(2,0,0)  (y != 0 without sets: [(2, 0, 0)])
+MATCH     no connected sets for A=Z_8 (any y) and A=Z_4 x Z_2 (any y)
+MATCH     for y=0 only Z_4^2 has connected sets (groups with sets for y=0: [[4, 4]])
+MATCH     Type II sets occur for Z_4^2 and Z_8 x Z_2 with some y != 0 ({(4, 4): True, (8, 2): True})
+MATCH     no solution is neither Type I nor Type II (Theorem gd:fourier(b)) (count 0)

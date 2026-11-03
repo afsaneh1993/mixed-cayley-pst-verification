@@ -1,0 +1,41 @@
+PASS  S1.4 m=2: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=2: abelian-Cayley obstruction absent (m=2, as the remark says)
+PASS  S1.4 m=2: spectrum {-5,-3,3,5} and U(pi/2) = -i R_c
+PASS  S1.4 m=2: |G|=64, |Aut|=6144 (got 6144)
+PASS  S1.4 m=3: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=3: abelian-Cayley obstruction holds
+PASS  S1.4 m=3: spectrum {-5,-3,3,5} and U(pi/2) = -i R_c
+PASS  S1.4 m=4: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=4: abelian-Cayley obstruction holds
+PASS  S1.4 m=4: spectrum {-5,-3,3,5} and U(pi/2) = -i R_c
+PASS  S1.4 m=5: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=5: abelian-Cayley obstruction holds
+PASS  S1.4 m=5: spectrum {-5,-3,3,5} and U(pi/2) = -i R_c
+PASS  S1.4 m=6: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=6: abelian-Cayley obstruction holds
+PASS  S1.4 m=6: spectrum {-5,-3,3,5} and U(pi/2) = -i R_c
+PASS  S1.4 m=7: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=7: abelian-Cayley obstruction holds
+PASS  S1.4 m=8: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=8: abelian-Cayley obstruction holds
+PASS  S1.4 m=9: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=9: abelian-Cayley obstruction holds
+PASS  S1.4 m=10: admissible, K^2=16I (exact), connected
+PASS  S1.4 m=10: abelian-Cayley obstruction holds
+PASS  S1.2 Dic_3: |Aut| = n 2^(n+1) = 48 (got 48)
+PASS  S1.2 Dic_4: |Aut| = n 2^(n+1) = 128 (got 128)
+PASS  S1.2 Dic_5: |Aut| = n 2^(n+1) = 320 (got 320)
+PASS  S1.2 Dic_6: |Aut| = n 2^(n+1) = 768 (got 768)
+PASS  S1.2 Dic_7: |Aut| = n 2^(n+1) = 1792 (got 1792)
+PASS  S1.2 Dic_8: |Aut| = n 2^(n+1) = 4096 (got 4096)
+PASS  S1.2 Dic_9: |Aut| = n 2^(n+1) = 9216 (got 9216)
+PASS  S1.2 Dic_10: |Aut| = n 2^(n+1) = 20480 (got 20480)
+PASS  S1.2 SD_16: |Aut| = 2^7 (got 128)
+PASS  S1.2 SD_32: |Aut| = 2^12 (got 4096)
+PASS  S1.2 SD_64: |Aut| = 2^21 (got 2097152)
+PASS  S3.2 n=5: C_n oriented, S_n normal, zeta=8, connected, PST at pi/4 with a target of order 4
+PASS  S3.2 n=6: C_n oriented, S_n normal, zeta=8, connected, PST at pi/4 with a target of order 4
+PASS  S3.2 n=7: C_n oriented, S_n normal, zeta=8, connected, PST at pi/4 with a target of order 4
+PASS  S3.2 n=8: C_n oriented, S_n normal, zeta=8, connected, PST at pi/4 with a target of order 4
+
+ALL CHECKS PASSED

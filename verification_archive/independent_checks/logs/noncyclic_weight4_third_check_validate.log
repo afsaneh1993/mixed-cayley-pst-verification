@@ -1,0 +1,17 @@
+VALIDATION 1: cyclic A = Z_2n, y = n  (one central involution c = n): connected sets must be 80, 288, 1176, 2688
+  Dic_5: 80 (expected 80) -> OK   [0 s]
+  Dic_6: 288 (expected 288) -> OK   [2 s]
+  Dic_7: 1176 (expected 1176) -> OK   [17 s]
+  Dic_8: 2688 (expected 2688) -> OK   [81 s]
+VALIDATION 2: cyclic A = Z_2n with y = 0 (dihedral): none
+  A=Z_10, y=0: 0 -> OK
+  A=Z_12, y=0: 0 -> OK
+  A=Z_14, y=0: 0 -> OK
+VALIDATION 3: A = Z_6 x Z_2 against the archive's own enumerator (wenum_exact.py, summed over c): y=(0,0): 0; y=(0,1),(3,0),(3,1): 864 each
+A=[6, 2] y=(0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (3, 0): 0, (3, 1): 0}   [0 s]
+A=[6, 2] y=(0, 1): sets with K^2=16I: 288; connected (S',c) pairs: 864 (Type I 864, Type II 0, neither 0); per c: {(0, 1): 288, (3, 0): 288, (3, 1): 288}   [1 s]
+A=[6, 2] y=(3, 0): sets with K^2=16I: 288; connected (S',c) pairs: 864 (Type I 864, Type II 0, neither 0); per c: {(0, 1): 288, (3, 0): 288, (3, 1): 288}   [1 s]
+A=[6, 2] y=(3, 1): sets with K^2=16I: 288; connected (S',c) pairs: 864 (Type I 864, Type II 0, neither 0); per c: {(0, 1): 288, (3, 0): 288, (3, 1): 288}   [1 s]
+VALIDATION 4: A = Z_8 x Z_2, y = (0,0): none (archive enumerator: 0)
+A=[8, 2] y=(0, 0): sets with K^2=16I: 0; connected (S',c) pairs: 0 (Type I 0, Type II 0, neither 0); per c: {(0, 1): 0, (4, 0): 0, (4, 1): 0}   [1 s]
+VALIDATIONS PASSED

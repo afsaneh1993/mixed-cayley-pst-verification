@@ -1,0 +1,6 @@
+PASS  n=5: (a) True  (b) spectrum [-8, -4, -2, 0, 2, 4, 8]  (c) True
+PASS  n=6: (a) True  (b) spectrum [-16, -4, -2, 0, 2, 4, 16]  (c) True
+PASS  n=7: (a) True  (b) spectrum [-32, -4, -2, 0, 2, 4, 32]  (c) True
+PASS  n=8: (a) True  (b) spectrum [-64, -4, -2, 0, 2, 4, 64]  (c) True
+
+ALL CHECKS PASSED

@@ -1,0 +1,42 @@
+OK   Gamma_6 on D_6 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 12 (expected 12: True)
+OK   Gamma_8 on D_8 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 16 (expected 16: True)
+OK   Gamma_10 on D_10 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 20 (expected 20: True)
+OK   Gamma_12 on D_12 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 24 (expected 24: True)
+OK   Gamma_14 on D_14 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 28 (expected 28: True)
+OK   Gamma_16 on D_16 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 32 (expected 32: True)
+OK   Dic_3 (g=xa) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 48 (expected 48: True)
+OK   Dic_4 (g=xa) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 128 (expected 128: True)
+OK   Dic_5 (g=xa) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 320 (expected 320: True)
+OK   Dic_6 (g=xa) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 768 (expected 768: True)
+OK   Dic_7 (g=xa) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 1792 (expected 1792: True)
+OK   SD_16 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 128 
+OK   SD_32 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 4096 
+OK   SD_64 K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 2097152 
+OK   Dih(Z4xZ8) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 1024 
+OK   Dih(Z4xZ8) c=(0, 4) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 1024 
+OK   Dih(Z4xZ8) c=(2, 4) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 1024 
+OK   Dih(Z4xZ12) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 6144 
+OK   Dih(Z4xZ12) c=(0, 6) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 6144 
+OK   Dih(Z4xZ12) c=(2, 6) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 6144 
+OK   Dih(Z4xZ16) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 32768 
+OK   Dih(Z4xZ16) c=(0, 8) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 32768 
+OK   Dih(Z4xZ16) c=(2, 8) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| 32768 
+OK   Dih(Z4xZ20) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ20) c=(0, 10) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ20) c=(2, 10) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ24) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ24) c=(0, 12) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ24) c=(2, 12) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ28) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ28) c=(0, 14) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ28) c=(2, 14) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ32) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ32) c=(0, 16) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ32) c=(2, 16) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ36) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ36) c=(0, 18) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ36) c=(2, 18) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ40) c=(2, 0) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ40) c=(0, 20) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+OK   Dih(Z4xZ40) c=(2, 20) K2=k2I True PST(pi/2) True connected True commutation-test-nonzero True |Aut| None 
+ALL FAMILY CHECKS PASSED

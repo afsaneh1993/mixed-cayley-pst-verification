@@ -1,0 +1,5 @@
+Dic_5: connected weight-4 sets = 80  (Type I: 80, Type II: 0; filter false positives removed by exact check: 0)
+Dic_6: connected weight-4 sets = 288  (Type I: 288, Type II: 0; filter false positives removed by exact check: 0)
+Dic_7: connected weight-4 sets = 1176  (Type I: 1176, Type II: 0; filter false positives removed by exact check: 0)
+Dic_8: connected weight-4 sets = 2688  (Type I: 2688, Type II: 0; filter false positives removed by exact check: 0)
+Dic_9: connected weight-4 sets = 4320  (Type I: 4320, Type II: 0; filter false positives removed by exact check: 0)

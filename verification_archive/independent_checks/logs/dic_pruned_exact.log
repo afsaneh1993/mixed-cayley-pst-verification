@@ -1,0 +1,3 @@
+Dic_5 [pruned, exact integer arithmetic]: candidates tested 16128, weight-4 weighing sets 80, connected 80 (0.3s)
+Dic_6 [pruned, exact integer arithmetic]: candidates tested 295680, weight-4 weighing sets 288, connected 288 (6.6s)
+Dic_7 [pruned, exact integer arithmetic]: candidates tested 2306304, weight-4 weighing sets 1176, connected 1176 (65.7s)

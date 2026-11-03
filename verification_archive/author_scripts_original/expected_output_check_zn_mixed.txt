@@ -1,0 +1,3 @@
+n=6: 23 sets with zeta>0 tested; sets with PST: [[3]]; claim holds
+n=10: 431 sets with zeta>0 tested; sets with PST: [[5]]; claim holds
+n=14: 7463 sets with zeta>0 tested; sets with PST: [[7]]; claim holds

@@ -1,0 +1,16 @@
+PASS  Dic_3: |Aut| = n 2^(n+1) = 48 (nauty: 48)
+PASS  Dic_4: |Aut| = n 2^(n+1) = 128 (nauty: 128)
+PASS  Dic_5: |Aut| = n 2^(n+1) = 320 (nauty: 320)
+PASS  Dic_6: |Aut| = n 2^(n+1) = 768 (nauty: 768)
+PASS  Dic_7: |Aut| = n 2^(n+1) = 1792 (nauty: 1792)
+PASS  Dic_8: |Aut| = n 2^(n+1) = 4096 (nauty: 4096)
+PASS  Dic_9: |Aut| = n 2^(n+1) = 9216 (nauty: 9216)
+PASS  Dic_10: |Aut| = n 2^(n+1) = 20480 (nauty: 20480)
+PASS  Dic_11: |Aut| = n 2^(n+1) = 45056 (nauty: 45056)
+PASS  Dic_12: |Aut| = n 2^(n+1) = 98304 (nauty: 98304)
+PASS  SD_16: |Aut| = 2^7 (nauty: 128 = 2^7)
+PASS  SD_32: |Aut| = 2^12 (nauty: 4096 = 2^12)
+PASS  SD_64: |Aut| = 2^21 (nauty: 2097152 = 2^21)
+PASS  SD_128: |Aut| = 2^38 (nauty: 274877906944 = 2^38)
+
+ALL CHECKS PASSED

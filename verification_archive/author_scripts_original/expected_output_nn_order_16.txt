@@ -1,0 +1,19 @@
+D8: sets=32741 PST=514 nonnormal-PST=498 connected-nonnormal-PST=406 undirected=216 iso-classes=32
+Q16: sets=30581 PST=698 nonnormal-PST=682 connected-nonnormal-PST=630 undirected=24 iso-classes=40
+SD16: sets=32525 PST=470 nonnormal-PST=454 connected-nonnormal-PST=382 undirected=184 iso-classes=47
+M16: sets=32039 PST=2312 nonnormal-PST=2058 connected-nonnormal-PST=1976 undirected=80 iso-classes=216
+Z4sdZ4: sets=32039 PST=5700 nonnormal-PST=5300 connected-nonnormal-PST=5088 undirected=168 iso-classes=227
+Z2xD4: sets=32759 PST=4940 nonnormal-PST=4556 connected-nonnormal-PST=4188 undirected=2736 iso-classes=94
+Z2xQ8: sets=32039 PST=5532 nonnormal-PST=5148 connected-nonnormal-PST=4860 undirected=0 iso-classes=84
+Z4oD4: sets=32687 PST=4136 nonnormal-PST=3882 connected-nonnormal-PST=3528 undirected=648 iso-classes=76
+Z4Z2sdZ2: sets=32687 PST=5812 nonnormal-PST=5412 connected-nonnormal-PST=5184 undirected=624 iso-classes=247
+D8: classes=32 not-abelian-Cayley=4
+Q16: classes=40 not-abelian-Cayley=13
+SD16: classes=47 not-abelian-Cayley=9
+M16: classes=216 not-abelian-Cayley=25
+Z4sdZ4: classes=227 not-abelian-Cayley=37
+Z2xD4: classes=94 not-abelian-Cayley=0
+Z2xQ8: classes=84 not-abelian-Cayley=11
+Z4oD4: classes=76 not-abelian-Cayley=0
+Z4Z2sdZ2: classes=247 not-abelian-Cayley=40
+order 16: distinct graphs not Cayley graphs of any abelian group = 96; |Aut| distribution [(16, 59), (32, 23), (48, 4), (64, 3), (128, 7)]

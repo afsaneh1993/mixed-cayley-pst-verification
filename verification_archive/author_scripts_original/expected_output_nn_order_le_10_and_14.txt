@@ -1,0 +1,5 @@
+S3: sets=29 PST=3 nonnormal-PST=3 connected-nonnormal-PST=0 undirected=0 iso-classes=0
+D4: sets=125 PST=46 nonnormal-PST=38 connected-nonnormal-PST=30 undirected=24 iso-classes=6
+Q8: sets=101 PST=26 nonnormal-PST=18 connected-nonnormal-PST=18 undirected=0 iso-classes=2
+D5: sets=503 PST=5 nonnormal-PST=5 connected-nonnormal-PST=0 undirected=0 iso-classes=0
+D7: sets=8165 PST=7 nonnormal-PST=7 connected-nonnormal-PST=0 undirected=0 iso-classes=0

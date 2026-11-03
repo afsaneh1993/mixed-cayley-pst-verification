@@ -1,0 +1,6 @@
+size 9 inverse-closed True
+c central True
+[(np.float64(-5.0), 2), (np.float64(-3.0), 7), (np.float64(-1.0), 8), (np.float64(1.0), 7), (np.float64(3.0), 6), (np.float64(5.0), 1), (np.float64(9.0), 1)]
+H0 [(np.float64(-6.0), 2), (np.float64(-2.0), 15), (np.float64(2.0), 13), (np.float64(6.0), 1), (np.float64(10.0), 1)]
+U(pi/2)=i R_c? True
+Aut 32

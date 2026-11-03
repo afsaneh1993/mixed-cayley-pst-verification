@@ -1,0 +1,13 @@
+Z6xZ2 y=(0, 0) c=(0, 1): unpruned candidates 356277, sets 0; pruned-search sets avoiding c 0; identical: True
+Z6xZ2 y=(0, 0) c=(3, 0): unpruned candidates 356277, sets 0; pruned-search sets avoiding c 0; identical: True
+Z6xZ2 y=(0, 0) c=(3, 1): unpruned candidates 356277, sets 0; pruned-search sets avoiding c 0; identical: True
+Z6xZ2 y=(0, 1) c=(0, 1): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(0, 1) c=(3, 0): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(0, 1) c=(3, 1): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(3, 0) c=(0, 1): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(3, 0) c=(3, 0): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(3, 0) c=(3, 1): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(3, 1) c=(0, 1): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(3, 1) c=(3, 0): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+Z6xZ2 y=(3, 1) c=(3, 1): unpruned candidates 557685, sets 288; pruned-search sets avoiding c 288; identical: True
+PRUNING VALIDATED

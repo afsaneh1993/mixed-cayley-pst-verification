@@ -1,0 +1,4 @@
+Dic_3 [full, exact integer arithmetic]: candidates tested 0, weight-4 weighing sets 0, connected 0 (0.0s)
+Dic_4 [full, exact integer arithmetic]: candidates tested 0, weight-4 weighing sets 0, connected 0 (0.0s)
+Dic_5 [full, exact integer arithmetic]: candidates tested 59049, weight-4 weighing sets 80, connected 80 (0.9s)
+Dic_6 [full, exact integer arithmetic]: candidates tested 1082565, weight-4 weighing sets 288, connected 288 (23.2s)

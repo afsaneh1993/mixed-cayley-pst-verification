@@ -1,0 +1,5 @@
+D6: sets=2039 PST=68 nonnormal-PST=66 connected-nonnormal-PST=51 undirected=15 iso-classes=6
+Dic3: sets=1805 PST=74 nonnormal-PST=72 connected-nonnormal-PST=69 undirected=3 iso-classes=8
+D6: classes=6 not-abelian-Cayley=4
+Dic3: classes=8 not-abelian-Cayley=6
+order 12: distinct graphs not Cayley graphs of any abelian group = 8; |Aut| distribution [(12, 2), (48, 4), (384, 2)]

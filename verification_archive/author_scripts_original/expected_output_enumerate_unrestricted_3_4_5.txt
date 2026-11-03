@@ -1,0 +1,3 @@
+Dic_3: connected weight-4 sets (all subsets tested) = 0
+Dic_4: connected weight-4 sets (all subsets tested) = 0
+Dic_5: connected weight-4 sets (all subsets tested) = 80

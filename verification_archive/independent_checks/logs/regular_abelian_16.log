@@ -1,0 +1,10 @@
+order 16 : abelian certificates: 6951
+D8: classes 32; abelian-Cayley by certificate: 28; by regular abelian subgroup in Aut: 26; agreement 30, disagreement 0, skipped (|Aut| too large) 2  (57s)
+Q16: classes 40; abelian-Cayley by certificate: 27; by regular abelian subgroup in Aut: 27; agreement 40, disagreement 0, skipped (|Aut| too large) 0  (70s)
+SD16: classes 47; abelian-Cayley by certificate: 38; by regular abelian subgroup in Aut: 36; agreement 45, disagreement 0, skipped (|Aut| too large) 2  (84s)
+M16: classes 216; abelian-Cayley by certificate: 191; by regular abelian subgroup in Aut: 189; agreement 214, disagreement 0, skipped (|Aut| too large) 2  (99s)
+Z4sdZ4: classes 227; abelian-Cayley by certificate: 190; by regular abelian subgroup in Aut: 190; agreement 227, disagreement 0, skipped (|Aut| too large) 0  (114s)
+Z2xD4: classes 94; abelian-Cayley by certificate: 94; by regular abelian subgroup in Aut: 92; agreement 92, disagreement 0, skipped (|Aut| too large) 2  (126s)
+Z2xQ8: classes 84; abelian-Cayley by certificate: 73; by regular abelian subgroup in Aut: 73; agreement 84, disagreement 0, skipped (|Aut| too large) 0  (135s)
+Z4oD4: classes 76; abelian-Cayley by certificate: 76; by regular abelian subgroup in Aut: 74; agreement 74, disagreement 0, skipped (|Aut| too large) 2  (148s)
+Z4Z2sdZ2: classes 247; abelian-Cayley by certificate: 207; by regular abelian subgroup in Aut: 205; agreement 245, disagreement 0, skipped (|Aut| too large) 2  (166s)

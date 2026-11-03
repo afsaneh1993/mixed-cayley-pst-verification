@@ -1,0 +1,9 @@
+4 K2=4I True spec {np.float64(-3.0): 2, np.float64(-1.0): 2, np.float64(1.0): 2, np.float64(3.0): 2} U=iR_c True PSTl [2, 6] edges 12 arcs 8 nonabelian-test False Aut 16 AutUnd 128
+6 K2=4I True spec {np.float64(-3.0): 3, np.float64(-1.0): 3, np.float64(1.0): 3, np.float64(3.0): 3} U=iR_c True PSTl [2, 6] edges 18 arcs 12 nonabelian-test True Aut 12 AutUnd 1440
+8 K2=4I True spec {np.float64(-3.0): 4, np.float64(-1.0): 4, np.float64(1.0): 4, np.float64(3.0): 4} U=iR_c True PSTl [2, 6] edges 24 arcs 16 nonabelian-test True Aut 16 AutUnd 256
+10 K2=4I True spec {np.float64(-3.0): 5, np.float64(-1.0): 5, np.float64(1.0): 5, np.float64(3.0): 5} U=iR_c True PSTl [2, 6] edges 30 arcs 20 nonabelian-test True Aut 20 AutUnd 640
+12 K2=4I True spec {np.float64(-3.0): 6, np.float64(-1.0): 6, np.float64(1.0): 6, np.float64(3.0): 6} U=iR_c True PSTl [2, 6] edges 36 arcs 24 nonabelian-test True Aut 24 AutUnd 1536
+14 K2=4I True spec {np.float64(-3.0): 7, np.float64(-1.0): 7, np.float64(1.0): 7, np.float64(3.0): 7} U=iR_c True PSTl [2, 6] edges 42 arcs 28 nonabelian-test True Aut 28 AutUnd None
+16 K2=4I True spec {np.float64(-3.0): 8, np.float64(-1.0): 8, np.float64(1.0): 8, np.float64(3.0): 8} U=iR_c True PSTl [2, 6] edges 48 arcs 32 nonabelian-test True Aut 32 AutUnd None
+18 K2=4I True spec {np.float64(-3.0): 9, np.float64(-1.0): 9, np.float64(1.0): 9, np.float64(3.0): 9} U=iR_c True PSTl [2, 6] edges 54 arcs 36 nonabelian-test True Aut None AutUnd None
+20 K2=4I True spec {np.float64(-3.0): 10, np.float64(-1.0): 10, np.float64(1.0): 10, np.float64(3.0): 10} U=iR_c True PSTl [2, 6] edges 60 arcs 40 nonabelian-test True Aut None AutUnd None
