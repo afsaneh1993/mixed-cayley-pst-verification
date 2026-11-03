@@ -6,4 +6,6 @@
 
 Start with verification_archive/README.md and verification_archive/independent_checks/README.md (claim -> script -> log tables).
 Python 3.12.3, numpy 2.4.4, scipy 1.17.1, pynauty 2.8.8.1. Computations are numerical evidence (exact integer arithmetic where stated), not formal proofs.
-Licence: [to be chosen by the author when depositing].
+Licence: Apache-2.0, see the file LICENSE.
+The manuscript/ folder also contains the three figure files (fig_gamma6.pdf, fig_gamma8.pdf, fig_prob_gamma6.pdf) needed to compile manuscript.tex.
+The manuscript.tex in this archive is the submitted version before the DOI of this archive was inserted.
